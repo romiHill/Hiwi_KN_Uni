@@ -1,0 +1,15 @@
+ LEXICON Root
+dass:das			#;
+der:de%:6		#;
+Partner:pa6t.n6		#;
+Freundin:fROYn.dIn	#;
+fehlte:fe%:l.t@		#;
+
+! The following ones are used for testing branching in the subroutines
+! derfreun:de%:6.fROYn	#;
+! derfreundin:de%:6.fROYn.dIn	#;
+! nerder:n6.de%:6		#;
+! dassder:das.de%:6		#;
+! dassderPart:das.de%:6.pa6t		#;
+
+ 

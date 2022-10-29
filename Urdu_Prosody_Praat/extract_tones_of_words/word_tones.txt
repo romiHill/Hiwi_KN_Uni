@@ -1,0 +1,27 @@
+filename	Word	tone
+RS1_B1_S10_U1.TextGrid	T_D_HA_Y	H-L%
+RS1_B1_S11_U1.TextGrid	VAG_GA_ERA_A	
+RS1_B1_S13_U1.TextGrid	GA_Y	L-L%
+RS1_B1_S14_U1.TextGrid	HA_E	L-L%
+RS1_B1_S15_U1.TextGrid	GA_E_H_A_A	L-L%
+RS1_B1_S16_U1.TextGrid	HUI_I_N	L-L%
+RS1_B1_S17_U1.TextGrid	KO_O	L-L%
+RS1_B1_S18_U1.TextGrid	NIKA_ALA_A	L-L%
+RS1_B1_S19_U1.TextGrid	D_ZA_A_A_Y	H-L%
+RS1_B1_S1_U1.TextGrid	KIA_A	L-L%
+RS1_B1_S20_U1.TextGrid	LO_O	L-L%
+RS1_B1_S21_U1.TextGrid	HA_E	L-L%
+RS1_B1_S22_U1.TextGrid	T_D_HA_A	L-L%
+RS1_B1_S23_U1.TextGrid	HA_E	L-L%
+RS1_B1_S24_U1.TextGrid	D_DIA_A	L-L%
+RS1_B1_S25_U1.TextGrid	SA_Y	L-L%
+RS1_B1_S2_U1.TextGrid	HA_E_N	L-L%
+RS1_B1_S3_U1.TextGrid	HA_E_N	L-L%
+RS1_B1_S4_U1.TextGrid	D_DIA_A	L-L%
+RS1_B1_S5_U1.TextGrid	T_D_HA_A	L-L%
+RS1_B1_S6_U1.TextGrid	HA_E	H-L%
+RS1_B1_S7_U1.TextGrid	HA_E	L-L%
+RS1_B1_S8_U1.TextGrid	T_D_HA_Y	H-L%
+RS1_B1_S9_U1.TextGrid	MANFI_I	L* L-L%
+RS1_B2_S27_U1.TextGrid	GA_A_Y	L-L%
+RS1_B2_S28_U1.TextGrid	HA_E_N	L-L%

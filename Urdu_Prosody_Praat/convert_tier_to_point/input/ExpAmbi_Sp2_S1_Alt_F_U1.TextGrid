@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8549583333333333 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 3.8549583333333333 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.8549583333333333 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 3.8549583333333333 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.934126628017451 
+            text = "" 
+        intervals [2]:
+            xmin = 0.934126628017451 
+            xmax = 1.1017385972508589 
+            text = "tum" 
+        intervals [3]:
+            xmin = 1.1017385972508589 
+            xmax = 1.5948556091428068 
+            text = "pani" 
+        intervals [4]:
+            xmin = 1.5948556091428068 
+            xmax = 1.7502748201742253 
+            text = "pau" 
+        intervals [5]:
+            xmin = 1.7502748201742253 
+            xmax = 1.917299113973617 
+            text = "ya" 
+        intervals [6]:
+            xmin = 1.917299113973617 
+            xmax = 2.295448102466977 
+            text = "kofi" 
+        intervals [7]:
+            xmin = 2.295448102466977 
+            xmax = 2.5797738345959758 
+            text = "pio" 
+        intervals [8]:
+            xmin = 2.5797738345959758 
+            xmax = 2.763453068543998 
+            text = "gi" 
+        intervals [9]:
+            xmin = 2.763453068543998 
+            xmax = 3.8549583333333333 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Tone" 
+        xmin = 0 
+        xmax = 3.8549583333333333 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.8549583333333333 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Utterance" 
+        xmin = 0 
+        xmax = 3.8549583333333333 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.8549583333333333 
+            text = "tum pani ya kofi pio gi" 

@@ -1,0 +1,561 @@
+filename	utterance	'point_index	f0_value
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		1	290.64658224821943
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		2	279.9893690041565
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		3	278.9099535957774
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		4	252.80970518695628
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		5	232.09898668167511
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		6	250.49249357110352
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		7	236.98899888020648
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		8	253.68429687166784
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		9	249.0829611344992
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		10	244.01750102918297
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		11	229.16381323804734
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		12	265.6694788800053
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		13	285.48661115740606
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		14	--undefined--
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		15	260.14256114987205
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		16	248.87137273922713
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		17	--undefined--
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		18	221.43153957746773
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		19	207.8363465973275
+ExpBase_Sp10_S1_Alt_F_U1.TextGrid	tum pani  pio gi ya kofi		20	--undefined--
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		1	--undefined--
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		2	274.00893653435867
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		3	277.78240334076906
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		4	267.9045322479892
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		5	246.19404354933442
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		6	244.0580890582804
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		7	282.1810314542776
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		8	--undefined--
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		9	279.50484433717287
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		10	267.0925905187875
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		11	243.00349066989025
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		12	279.4830491678828
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		13	303.4987676121321
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		14	290.91227415607136
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		15	303.1209859318507
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		16	245.4542860120495
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		17	--undefined--
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		18	202.1192685618923
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		19	172.67354850858263
+ExpBase_Sp10_S1_Alt_F_U2.TextGrid	tum pani  pio gi ya kofi		20	--undefined--
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		1	--undefined--
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		2	267.88455357620273
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		3	278.0747084786707
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		4	269.57362359305415
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		5	256.50464738521316
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		6	235.2459470560208
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		7	223.64958031257777
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		8	231.18762960449587
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		9	237.26488220118253
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		10	--undefined--
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		11	233.5085732305552
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		12	234.86809793884652
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		13	261.19747801012994
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		14	296.44129156854564
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		15	297.0813116209929
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		16	304.3793078622491
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		17	299.6967068019803
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		18	309.24917682625465
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		19	304.9629513008199
+ExpBase_Sp10_S1_Polar_F_U1.TextGrid	tum pani  pio gi		20	--undefined--
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		1	--undefined--
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		2	264.07692154889753
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		3	279.54305617810894
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		4	281.30520949912096
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		5	--undefined--
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		6	245.46525918705882
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		7	225.60336927370668
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		8	226.02080760610235
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		9	232.81235789165657
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		10	221.14139345566352
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		11	--undefined--
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		12	234.55029212126541
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		13	238.81094631483552
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		14	267.1404158660417
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		15	300.52268949707894
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		16	277.35702148359275
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		17	301.1188698247573
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		18	298.833080903164
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		19	300.1982670910956
+ExpBase_Sp10_S1_Polar_F_U2.TextGrid	tum pani  pio gi 		20	--undefined--
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		1	--undefined--
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		2	276.85212220627125
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		3	280.15145707132547
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		4	261.9991361736179
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		5	249.02783469810316
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		6	261.3733980392403
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		7	--undefined--
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		8	254.5612332267178
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		9	242.54562303378768
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		10	234.59160689207354
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		11	221.09875099475906
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		12	251.2191038756113
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		13	270.6424560169618
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		14	260.71805322902486
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		15	242.81704459556798
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		16	237.65924858947858
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		17	198.93534306797852
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		18	215.99851425765254
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		19	201.97520058434296
+ExpBase_Sp10_S2_Alt_F_U1.TextGrid	tum muli  khao gi ya gobi		20	193.70316936325884
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		1	--undefined--
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		2	270.54182151537714
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		3	273.2432413151778
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		4	262.28464533956236
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		5	242.42227937604943
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		6	267.85939166083074
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		7	--undefined--
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		8	274.01230761587345
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		9	264.93173702996995
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		10	249.33149799202903
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		11	256.97645424626614
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		12	277.68235271858765
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		13	301.522514358476
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		14	261.68912465878094
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		15	256.1768710751382
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		16	226.9325576460076
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		17	230.03662612893464
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		18	223.74844046205507
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		19	210.53320725006094
+ExpBase_Sp10_S2_Alt_F_U2.TextGrid	tum muli  khao gi ya gobi		20	--undefined--
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		1	291.8333957677412
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		2	268.1810135106634
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		3	270.0518169905404
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		4	269.0471468690023
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		5	258.68799613892463
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		6	241.56561819606287
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		7	238.07778469200187
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		8	248.42358371327592
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		9	240.42408740836382
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		10	--undefined--
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		11	--undefined--
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		12	240.57512389820315
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		13	229.4362678699547
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		14	235.9948096682438
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		15	250.048518841066
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		16	268.9068083638819
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		17	292.37484133393
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		18	285.74243023568266
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		19	288.84631382787666
+ExpBase_Sp10_S2_Polar_F_U1.TextGrid	tum muli  khao gi 		20	--undefined--
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		1	--undefined--
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		2	283.6690852262408
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		3	289.6166387795161
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		4	289.6666836942326
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		5	278.6707224967783
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		6	255.79611786629914
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		7	242.802746731627
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		8	251.34931770181734
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		9	249.41669017908058
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		10	--undefined--
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		11	--undefined--
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		12	231.8476755418555
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		13	225.6702322894099
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		14	242.08294953169846
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		15	258.9238830906858
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		16	280.41021778077817
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		17	305.33546938243535
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		18	303.0482219690335
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		19	306.4392445479733
+ExpBase_Sp10_S2_Polar_F_U2.TextGrid	tum muli  khao gi		20	--undefined--
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		1	--undefined--
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		2	274.51733120143064
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		3	273.6336874972264
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		4	254.20012387427838
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		5	238.34983578357395
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		6	261.63276710186415
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		7	225.12063408165753
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		8	252.25357220100807
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		9	233.03830662352573
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		10	235.6877011549501
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		11	212.03110224437302
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		12	251.5131477587304
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		13	273.19187563522235
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		14	266.060692137418
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		15	237.27064070084998
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		16	232.69219664742647
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		17	218.18050101399547
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		18	205.12838318546883
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		19	205.13524372894648
+ExpBase_Sp10_S3_Alt_F_U1.TextGrid	tum mari  jao gi ya bali		20	--undefined--
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		1	--undefined--
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		2	270.6983079100832
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		3	260.43966816488114
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		4	247.1697623132921
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		5	226.8112600894237
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		6	273.9218422294493
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		7	237.7585444179131
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		8	260.4888350399241
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		9	247.75991156759198
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		10	229.0978249657066
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		11	256.7122431474156
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		12	295.488258456137
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		13	320.3343699417519
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		14	253.17212786797376
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		15	253.1930075121195
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		16	237.94923761008414
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		17	213.8127128520614
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		18	210.70013111328967
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		19	209.03837280612802
+ExpBase_Sp10_S3_Alt_F_U2.TextGrid	tum mari  jao gi ya bali		20	--undefined--
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		1	--undefined--
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		2	268.6266942797117
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		3	276.2830462613755
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		4	271.7074992666363
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		5	255.56155540535744
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		6	235.61359730800365
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		7	222.74544095914908
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		8	241.8847987408585
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		9	242.59099543916378
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		10	214.8325510617499
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		11	248.1342621089652
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		12	223.09420008640572
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		13	224.18010671448718
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		14	242.6594710828689
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		15	257.6112413053682
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		16	263.93257792648
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		17	290.2031780806399
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		18	286.19448927501287
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		19	288.6252245215378
+ExpBase_Sp10_S3_Polar_F_U1.TextGrid	tum mari  jao gi		20	--undefined--
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		1	--undefined--
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		2	282.650815520498
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		3	293.01869287903224
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		4	285.50265602556834
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		5	267.89725903765645
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		6	245.81353757010046
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		7	238.0902006092926
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		8	244.30827357167144
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		9	216.24711012180856
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		10	258.9330436989632
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		11	231.32082111817212
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		12	228.63242649441088
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		13	241.254036045932
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		14	264.5700764774544
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		15	279.52106228255457
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		16	313.0798406141749
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		17	301.4475245073523
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		18	303.32464135230373
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		19	292.76967525285824
+ExpBase_Sp10_S3_Polar_F_U2.TextGrid	tum mari  jao gi 		20	--undefined--
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		1	--undefined--
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		2	253.18138309213802
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		3	249.70434712494952
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		4	234.3956013389174
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		5	230.54308982027615
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		6	254.47101579582915
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		7	253.7543871502452
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		8	234.23940871157401
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		9	--undefined--
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		10	265.8953717478459
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		11	244.13759062491056
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		12	277.35629166660914
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		13	300.7253456941642
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		14	278.5616985594841
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		15	257.76728181034326
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		16	237.9362631987884
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		17	218.32287279287857
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		18	207.580633805595
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		19	201.07569764737752
+ExpBase_Sp10_S4_Alt_F_U1.TextGrid	tum lari  becho gi ya gari		20	--undefined--
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		1	--undefined--
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		2	265.64669379738467
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		3	278.1359729032934
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		4	239.98801604952544
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		5	228.52588111979122
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		6	240.39939635857402
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		7	218.88974348782526
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		8	235.36525212892033
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		9	--undefined--
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		10	265.07480293070995
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		11	255.34248836612932
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		12	284.12829630279913
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		13	298.6010242556341
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		14	292.0385260850588
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		15	263.59017329309313
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		16	250.0327233471007
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		17	235.15626702342186
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		18	210.36167521351481
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		19	206.68958396024735
+ExpBase_Sp10_S4_Alt_F_U2.TextGrid	tum lari  becho gi ya gari		20	--undefined--
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		1	--undefined--
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		2	259.3850987865095
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		3	264.05891430145846
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		4	255.2945074582796
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		5	260.73815673374025
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		6	243.99292338723282
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		7	236.95998747565014
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		8	233.13637185148963
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		9	246.93700688275445
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		10	224.64746452153494
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		11	249.60645736438025
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		12	239.4541111342273
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		13	--undefined--
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		14	304.96047023257194
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		15	315.7254357891988
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		16	303.8978105063799
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		17	317.48241661571495
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		18	301.3501769259877
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		19	297.9525080833627
+ExpBase_Sp10_S4_Polar_F_U1.TextGrid	tum gari  becho gi		20	283.99086562263676
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		1	--undefined--
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		2	256.37631322328735
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		3	271.32925446740165
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		4	276.78868356584957
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		5	253.9247831591009
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		6	238.8944252981283
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		7	228.7945499201532
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		8	216.66872676002166
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		9	238.50260425897181
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		10	212.34662920027557
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		11	233.99028650312127
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		12	220.6103097589418
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		13	--undefined--
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		14	284.3208702679056
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		15	303.7233895784657
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		16	289.9089275408516
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		17	310.33714986157906
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		18	305.8410502191572
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		19	303.59293871405157
+ExpBase_Sp10_S4_Polar_F_U2.TextGrid	tum gari  becho gi		20	--undefined--
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		1	--undefined--
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		2	265.6404954489245
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		3	269.3808594279176
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		4	249.80833216094837
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		5	240.9273624466698
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		6	246.1843352313843
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		7	256.6924634611826
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		8	228.86479310472217
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		9	215.827361357422
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		10	231.26658220814642
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		11	233.29899022442964
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		12	254.96478351418637
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		13	276.6450390934261
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		14	274.2222403938924
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		15	--undefined--
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		16	228.93071725036913
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		17	--undefined--
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		18	206.89228853345634
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		19	206.1873089771067
+ExpBase_Sp10_S5_Alt_F_U1.TextGrid	tum ghori mango gi ya khoti		20	--undefined--
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		1	--undefined--
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		2	280.00690699970806
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		3	291.5704216939134
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		4	271.8714662964942
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		5	249.10546884549095
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		6	235.87621745736612
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		7	259.7103764058792
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		8	267.6016242460373
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		9	250.34006561902265
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		10	250.3731364963117
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		11	242.41122075165842
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		12	267.0219149652886
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		13	298.4599943864776
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		14	324.5865465792056
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		15	--undefined--
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		16	242.56871489506196
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		17	--undefined--
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		18	121.71154088139151
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		19	107.89861923905273
+ExpBase_Sp10_S5_Alt_F_U2.TextGrid	tum ghori mango gi ya khoti		20	--undefined--
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		1	--undefined--
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		2	261.4593354540851
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		3	270.5838659476945
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		4	244.3182392517006
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		5	251.61933354987687
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		6	246.3309888399422
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		7	225.02063436903677
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		8	242.44772862179988
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		9	245.65357476186045
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		10	247.65370716022983
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		11	220.30672898461077
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		12	213.1504882645817
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		13	221.8891654959311
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		14	257.10402119488936
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		15	300.8310555096018
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		16	295.5317459473112
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		17	312.789153628554
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		18	292.01131872547194
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		19	290.6894301725346
+ExpBase_Sp10_S5_Polar_F_U1.TextGrid	tum ghori mango gi		20	--undefined--
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		1	308.87949572321406
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		2	281.4450983235096
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		3	287.6107982759377
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		4	274.81190504227413
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		5	261.65062155716123
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		6	248.50833027352263
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		7	228.58025568436304
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		8	229.05375729877133
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		9	246.4468815449703
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		10	238.2023041097725
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		11	218.84216688986504
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		12	215.20009599887067
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		13	223.92040781471795
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		14	262.0180638440034
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		15	290.1789444417879
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		16	--undefined--
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		17	306.8762199683087
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		18	295.13592869496887
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		19	289.16259179724364
+ExpBase_Sp10_S5_Polar_F_U2.TextGrid	tum ghori mango gi 		20	--undefined--
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		1	--undefined--
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		2	269.3378569745562
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		3	254.32663983550722
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		4	246.81542154237212
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		5	222.61624557753575
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		6	270.53766812747074
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		7	--undefined--
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		8	260.2070666023685
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		9	245.07082147600366
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		10	233.23988769307323
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		11	245.22402821790126
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		12	278.19493487342544
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		13	292.8017584520983
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		14	246.6920408599263
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		15	240.47601235777776
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		16	219.86748662324095
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		17	--undefined--
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		18	210.73168366972976
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		19	205.24208764455452
+ExpBase_Sp10_S6_Alt_F_U1.TextGrid	tum roti  khao gi ya boti		20	--undefined--
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		1	--undefined--
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		2	270.20129719188543
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		3	271.452787583674
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		4	255.16773088272322
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		5	220.42699144218764
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		6	267.2194595800306
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		7	--undefined--
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		8	264.68681109432197
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		9	232.08758505647296
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		10	236.96525779633834
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		11	224.39714937449926
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		12	260.2349885786591
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		13	276.28041770341133
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		14	252.28562554776022
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		15	248.90618595153
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		16	232.61663540937562
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		17	--undefined--
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		18	211.45869859730672
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		19	200.04550308369562
+ExpBase_Sp10_S6_Alt_F_U2.TextGrid	tum roti  khao gi ya boti		20	--undefined--
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		1	--undefined--
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		2	273.88675890507017
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		3	283.0547250901508
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		4	258.55310579669776
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		5	261.43933667650947
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		6	240.81732116676213
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		7	217.82576409334496
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		8	267.9043261137119
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		9	262.2690466754582
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		10	--undefined--
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		11	--undefined--
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		12	251.92314951381107
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		13	226.35056835813018
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		14	231.217150021426
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		15	254.66031616064998
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		16	259.9934436752875
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		17	298.8554247959301
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		18	292.1111029417079
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		19	297.646349693833
+ExpBase_Sp10_S6_Polar_F_U1.TextGrid	tum roti  khao gi		20	--undefined--
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		1	--undefined--
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		2	268.43043315597635
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		3	277.597274567989
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		4	276.75855887668513
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		5	260.53125783847287
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		6	236.39304060917658
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		7	210.9847278996756
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		8	253.07014886410084
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		9	243.59517952631336
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		10	--undefined--
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		11	--undefined--
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		12	227.76602763843476
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		13	228.05293027996362
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		14	253.10550535348574
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		15	261.0691731810079
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		16	288.78851562907727
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		17	300.7190938105708
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		18	298.36366955739635
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		19	285.2887075790053
+ExpBase_Sp10_S6_Polar_F_U2.TextGrid	tum roti  khao gi		20	--undefined--
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		1	--undefined--
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		2	270.8880210896805
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		3	260.3362685403674
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		4	244.69782033270965
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		5	231.53886348414392
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		6	249.3939812941327
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		7	235.19384343769025
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		8	251.35656918578687
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		9	--undefined--
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		10	244.8903455313984
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		11	259.0976921021925
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		12	276.4653668172681
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		13	287.3898037680276
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		14	294.99912970288136
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		15	--undefined--
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		16	249.32026036122886
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		17	224.16911451229657
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		18	208.3126751924481
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		19	205.7989513195172
+ExpBase_Sp10_S7_Alt_F_U1.TextGrid	tum bali  dekho gi ya chori		20	--undefined--
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		1	--undefined--
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		2	294.78352024073047
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		3	268.8338727651228
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		4	258.6269247065279
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		5	234.7223720136773
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		6	252.69118069200553
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		7	247.51930325078482
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		8	265.47383769902314
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		9	--undefined--
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		10	--undefined--
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		11	267.6966667669478
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		12	264.4227794570903
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		13	292.52559452696
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		14	309.30209135959944
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		15	--undefined--
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		16	284.41742458023475
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		17	270.63663594474724
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		18	237.6411680058819
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		19	211.3574357651991
+ExpBase_Sp10_S7_Alt_F_U2.TextGrid	tum bali  dekho gi ya chori		20	--undefined--
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		1	--undefined--
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		2	255.9553192033862
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		3	261.49097720278536
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		4	264.43492607739364
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		5	245.1351071767535
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		6	242.9482314129513
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		7	233.54714307111877
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		8	223.1784493142264
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		9	224.24717121268833
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		10	239.02351336265966
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		11	240.90929781345028
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		12	216.99655230861393
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		13	230.97529480783072
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		14	223.5694009501987
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		15	--undefined--
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		16	--undefined--
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		17	287.029914042572
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		18	297.99177841112936
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		19	278.1632220680399
+ExpBase_Sp10_S7_Polar_F_U1.TextGrid	tum bali  dekho gi		20	301.10929052748736
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		1	--undefined--
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		2	276.0377338474935
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		3	279.7062982766656
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		4	254.26017833126798
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		5	254.8536073347452
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		6	237.35212285380254
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		7	222.73840545149196
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		8	230.42975095508922
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		9	238.7001768596093
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		10	228.58055843498798
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		11	228.47925803829156
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		12	--undefined--
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		13	--undefined--
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		14	285.7528271757379
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		15	290.59955255084526
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		16	273.41418597681877
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		17	288.55024988257315
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		18	284.63022265319256
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		19	280.44209125028414
+ExpBase_Sp10_S7_Polar_F_U2.TextGrid	tum bali  dekho gi		20	--undefined--

@@ -1,0 +1,17 @@
+Multichar_Symbols
++--x +x +x- +- +--
++=cl +pw +us
++1 +2 +3 
+
+
+LEXICON Root
+dass:das+us+1+-		#;
+der:de%:6+us+1+-		#;
+Partner:(pa6t.n6)+pw+2+x-		#;
+Freundin:(fROYn.dIn)+pw+2+x-	#;
+fehlte:(fe%:l.t@)+pw+2+x-	#;
+!dassder:das.de%:6+us+2+--	#;
+!nerder:n6.de%:6+us+2+--		#;
+!dassderPart:das.de%:6.pa6t+pw+3+--x		#;
+
+ 

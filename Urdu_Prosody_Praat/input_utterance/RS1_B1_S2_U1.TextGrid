@@ -1,0 +1,133 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.13397916667 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 2.1339791666666668 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "SIL" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 0.49961500850340135 
+            text = "MA_Y_N" 
+        intervals [3]:
+            xmin = 0.49961500850340135 
+            xmax = 0.5962493055555554 
+            text = "PAU" 
+        intervals [4]:
+            xmin = 0.5962493055555554 
+            xmax = 1.090534806910569 
+            text = "BA_E_H_A_AN" 
+        intervals [5]:
+            xmin = 1.090534806910569 
+            xmax = 1.385395337301587 
+            text = "KI_IA_Y" 
+        intervals [6]:
+            xmin = 1.385395337301587 
+            xmax = 1.6570903486394553 
+            text = "GA_A_Y" 
+        intervals [7]:
+            xmin = 1.6570903486394553 
+            xmax = 2.0339816810344824 
+            text = "HA_E_N" 
+        intervals [8]:
+            xmin = 2.0339816810344824 
+            xmax = 2.1339791666666668 
+            text = "SIL" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 2.1339791666666668 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 0.49961500850340135 
+            text = "M A_Y_N" 
+        intervals [3]:
+            xmin = 0.49961500850340135 
+            xmax = 0.5962493055555554 
+            text = "" 
+        intervals [4]:
+            xmin = 0.5962493055555554 
+            xmax = 1.090534806910569 
+            text = "B A_E_H_A_A N" 
+        intervals [5]:
+            xmin = 1.090534806910569 
+            xmax = 1.2862230163698758 
+            text = "K I_I" 
+        intervals [6]:
+            xmin = 1.2862230163698758 
+            xmax = 1.385395337301587 
+            text = "A_Y" 
+        intervals [7]:
+            xmin = 1.385395337301587 
+            xmax = 1.6570903486394553 
+            text = "G A_A_Y" 
+        intervals [8]:
+            xmin = 1.6570903486394553 
+            xmax = 2.0339816810344824 
+            text = "H A_E_N" 
+        intervals [9]:
+            xmin = 2.0339816810344824 
+            xmax = 2.1339791666666668 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 2.13397916667 
+        points: size = 7 
+        points [1]:
+            number = 0.15826843036980406 
+            mark = "%L" 
+        points [2]:
+            number = 0.42202096168246206 
+            mark = "H-" 
+        points [3]:
+            number = 0.8545227841624826 
+            mark = "L*" 
+        points [4]:
+            number = 1.0287959107678666 
+            mark = "Ha" 
+        points [5]:
+            number = 1.5175834231259908 
+            mark = "L*" 
+        points [6]:
+            number = 1.6153930705725215 
+            mark = "Ha" 
+        points [7]:
+            number = 1.9238249924354112 
+            mark = "L%" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Utterance" 
+        xmin = 0 
+        xmax = 2.13397916667 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 2.0339816810344824 
+            text = "me biyan kia gay hain" 
+        intervals [3]:
+            xmin = 2.0339816810344824 
+            xmax = 2.13397916667 
+            text = "" 

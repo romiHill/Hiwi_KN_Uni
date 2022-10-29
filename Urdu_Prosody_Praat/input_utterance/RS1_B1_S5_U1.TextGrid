@@ -1,0 +1,141 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.24077083333 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 2.2407708333333334 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "SIL" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 0.24652221441007094 
+            text = "JA_Y" 
+        intervals [3]:
+            xmin = 0.24652221441007094 
+            xmax = 0.7548841771548436 
+            text = "T_SU_ULHA_A" 
+        intervals [4]:
+            xmin = 0.7548841771548436 
+            xmax = 0.8723639286322602 
+            text = "PAU" 
+        intervals [5]:
+            xmin = 0.8723639286322602 
+            xmax = 1.2716113346864502 
+            text = "AD_ZI_IB" 
+        intervals [6]:
+            xmin = 1.2716113346864502 
+            xmax = 1.7589785498903507 
+            text = "SA_AXT_D" 
+        intervals [7]:
+            xmin = 1.7589785498903507 
+            xmax = 1.8950118122009567 
+            text = "KA_A" 
+        intervals [8]:
+            xmin = 1.8950118122009567 
+            xmax = 2.140772897316821 
+            text = "T_D_HA_A" 
+        intervals [9]:
+            xmin = 2.140772897316821 
+            xmax = 2.2407708333333334 
+            text = "SIL" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 2.2407708333333334 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 0.24652221441007094 
+            text = "J A_Y" 
+        intervals [3]:
+            xmin = 0.24652221441007094 
+            xmax = 0.5161385095994702 
+            text = "T_S U_U L" 
+        intervals [4]:
+            xmin = 0.5161385095994702 
+            xmax = 0.7548841771548436 
+            text = "H A_A" 
+        intervals [5]:
+            xmin = 0.7548841771548436 
+            xmax = 0.8723639286322602 
+            text = "" 
+        intervals [6]:
+            xmin = 0.8723639286322602 
+            xmax = 0.9476428728070174 
+            text = "A" 
+        intervals [7]:
+            xmin = 0.9476428728070174 
+            xmax = 1.2716113346864502 
+            text = "D_Z I_I B" 
+        intervals [8]:
+            xmin = 1.2716113346864502 
+            xmax = 1.7589785498903507 
+            text = "S A_A X T_D" 
+        intervals [9]:
+            xmin = 1.7589785498903507 
+            xmax = 1.8950118122009567 
+            text = "K A_A" 
+        intervals [10]:
+            xmin = 1.8950118122009567 
+            xmax = 2.140772897316821 
+            text = "T_D_H A_A" 
+        intervals [11]:
+            xmin = 2.140772897316821 
+            xmax = 2.2407708333333334 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 2.24077083333 
+        points: size = 7 
+        points [1]:
+            number = 0.18132269578677582 
+            mark = "L*" 
+        points [2]:
+            number = 0.4219527886467881 
+            mark = "H*" 
+        points [3]:
+            number = 0.679230246421644 
+            mark = "Ha" 
+        points [4]:
+            number = 0.9254497739550103 
+            mark = "L*" 
+        points [5]:
+            number = 1.1310535364152978 
+            mark = "Ha" 
+        points [6]:
+            number = 1.48889754000722 
+            mark = "H*" 
+        points [7]:
+            number = 2.063988327974545 
+            mark = "L%" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Utterance" 
+        xmin = 0 
+        xmax = 2.24077083333 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 2.24077083333 
+            text = "yeh chola ajeeb sakht ka tha" 

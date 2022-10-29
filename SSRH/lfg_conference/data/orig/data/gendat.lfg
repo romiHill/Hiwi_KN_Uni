@@ -1,0 +1,423 @@
+DEMO   GERMAN   CONFIG (1.0)
+  ROOTCAT   ROOT.
+  FILES  .
+  LEXENTRIES  (DEMO GERMAN).
+  TEMPLATES  (DEMO GERMAN).
+  RULES (DEMO GERMAN).
+  GOVERNABLERELATIONS   SUBJ OBJ COMP XCOMP OBL OBL-?+.
+  SEMANTICFUNCTIONS  ADJUNCT TOPIC FOCUS POSS STANDARD.
+  NONDISTRIBUTIVES  NUM PERS CONJ-FORM.
+  EPSILON  e.
+  OPTIMALITYORDER NOGOOD.
+
+----
+
+DEMO   GERMAN   RULES (1.0)
+
+   ROOT --> IP
+   	    (PERIOD).
+
+   IP --> NP: (^ SUBJ)=!
+      	      (^ CASE) = nom;
+	  I'.
+
+   NP --> (D)
+      	  N': ^=!. "head of NP"
+
+   N' --> { N: ^=!; "head of N'"
+      	    (NP: (^ POSS) = !
+	       	 (! CASE) = gen;)
+	  | PRON: ^=! }.
+
+   I' --> { VP
+      	  | VPinf
+	    I }.
+
+   VP --> V'.
+
+   V' --> { (NP: (^ OBJ)=!) "direct object"
+      	    V: ^=! "head of V'"
+	       (^ VFORM)=base;
+	  | AP }
+	  (COMMA
+	  CP: (^ COMP)=! ).
+
+   VPinf -->  VPinf': ^=!.
+
+   VPinf' --> (NP: (^ OBJ)=!) "direct object"
+   	      V: (^ XCOMP)=!
+	         (! VFORM)=inf.
+
+   I -->    AUX.
+
+   CP --> C'.
+
+   C' --> C
+      	  IP.
+
+
+----
+
+DEMO   GERMAN   TEMPLATES (1.0)
+
+"optionally trans verbs"
+
+   OPT-TRANS(P) = { (^ PRED) = 'P<(^ SUBJ)>' "verb is either intransitive"
+   		  | (^ PRED) = 'P<(^ SUBJ)(^ OBJ)>'
+		    (^ SUBJ CASE) = nom
+		    (^ OBJ CASE) = dat }. "or transitive"
+
+"general templates"
+
+   PRED(P) = (^ PRED) = 'P'.
+
+   TENSE(T) = (^ TENSE) = T.
+
+   MOOD(M) = (^ MOOD) = M.
+
+   CASE(C) = (^ CASE) = C.
+
+   GEND(G) = (^ GEND) = G.
+
+   PERS(P) = (^ PERS) = P.
+
+   NUM(N) = (^ NUM) = N.
+
+   DEF(D) = (^ DEF) = D.
+
+   VTYPE(T) = (^ VTYPE) = T.
+
+   VFORM(F) = (^ VFORM) = F.
+
+   PAST3SG = @(TENSE past)
+   	     @(MOOD indicative)
+	     (^ SUBJ PERS) = 3
+	     (^ SUBJ NUM) = sg.
+
+"templates for nouns"
+
+   COUNT-NOUN(P N) = @(PRED P)
+   		      (^ NUM) = N
+		      (^ PERS) = 3
+		      (^ NTYPE) = count.
+
+   PRON (P Z N T) = @(PRED P)
+   	       	     (^ PERS) = Z
+   	       	     (^ NUM) = N
+		     (^ PRON-TYPE) = T
+		     (^ NTYPE) = pron.
+
+----
+
+DEMO   GERMAN   LEXICON (1.0)
+
+"nouns"
+
+Anwalt      N * @(COUNT-NOUN Anwalt sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Anwesenden  N * @(COUNT-NOUN Anwesenden pl).
+
+Dame        N * @(COUNT-NOUN Dame sg)
+		@(GEND fem).
+
+Diener      N * @(COUNT-NOUN Diener sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Diva	    N * @(COUNT-NOUN Diva sg)
+		@(GEND fem).
+
+Enkel       N * @(COUNT-NOUN Enkel pl)
+	      	{ @(CASE nom) | @(CASE gen) | @(CASE acc) }.
+
+Fahrer	    N * @(COUNT-NOUN Fahrer sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Freundin    N * @(COUNT-NOUN Freundin sg)
+		@(GEND fem).
+
+Gärtner	    N * { @(COUNT-NOUN Gärtner sg)
+		  @(GEND masc)
+		  { @(CASE nom) | @(CASE dat) | @(CASE acc) }
+		  | @(COUNT-NOUN Gärtner pl)
+		    @(GEND masc)
+		    { @(CASE nom) | @(CASE gen) | @(CASE acc) } }.
+
+Gärtnern    N * @(COUNT-NOUN Gärtner pl) "add. entry to check non-amb structure"
+		@(GEND masc)
+		@(CASE dat).
+
+Gärtners    N * @(COUNT-NOUN Gärtner sg) "add. entry to check non-amb structure"
+		@(GEND masc)
+		@(CASE gen).
+
+Gericht	    N * @(COUNT-NOUN Gericht sg)
+		@(GEND neut)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Gräfin	    N * @(COUNT-NOUN Gräfin sg)
+		@(GEND fem).
+
+Heldin      N * @(COUNT-NOUN Heldin sg)
+		@(GEND fem).
+
+Lehrer	    N * @(COUNT-NOUN Lehrer sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Nonne	    N * @(COUNT-NOUN Nonne sg)
+		@(GEND fem).
+
+Oma	    N * @(COUNT-NOUN Oma sg)
+		@(GEND fem).
+
+Onkel	    N * @(COUNT-NOUN Onkel sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Partner	    N * @(COUNT-NOUN Partner sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Rabe	    N * @(COUNT-NOUN Rabe sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Schwager    N * @(COUNT-NOUN Schwager sg)
+		@(GEND masc)
+		{ @(CASE nom) | @(CASE dat) | @(CASE acc) }.
+
+Schwäbin    N * @(COUNT-NOUN Schwäbin sg)
+		@(GEND fem).
+
+Tante	    N * @(COUNT-NOUN Tante sg)
+		@(GEND fem).
+
+"pronouns"
+
+er	PRON * @(PRON er 3 sg pers).
+
+sich	PRON * { @(PRON sich 3 sg refl)
+	       | @(PRON sich 3 sg refl) }.
+
+Sie	PRON * @(PRON sie 3 pl pers).
+
+
+"quantifying adjectives according to Butt & King (1999)"
+
+alles	A * (^ PRED) = 'alles' "? revise later"
+	    @(NUM pl)
+	    (^ SPEC TYPE) = QUANT.
+
+jeder	A * (^ PRED) = 'jeder' "? revise later"
+	    @(PERS 3)
+	    @(NUM pl)
+	    @(GEND masc)
+	    (^ SPEC TYPE) = QUANT.
+
+keiner	A * (^ PRED) = 'keiner' "? revise later"
+	    @(PERS 3)
+	    @(NUM pl)
+	    @(GEND masc)
+	    (^ SPEC TYPE) = QUANT.
+
+
+"quantifiers"
+
+Alle	Dquant * (^ SPEC QUANT PRED) = 'alle' "? revise later"
+	       	 (^ SPEC TYPE) = QUANT
+		 @(PERS 3)
+		 @(NUM pl).
+
+
+
+"verbs"
+
+antwortete   V * @(OPT-TRANS antworten)
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+bemerkte   V * { (^ PRED) = 'bemerken<(^ SUBJ)(^ COMP)>'
+	       | (^ PRED) = 'bemerken<(^ SUBJ)(^ OBJ)>'
+		 (^ OBJ CASE) = acc}
+	       (^ TENSE) = past
+	       (^ SUBJ PERS) = 3
+	       (^ SUBJ NUM) = sg
+	       (^ SUBJ CASE) = nom
+	       (^ COMP-FORM) = dass
+	       @(VFORM base)
+	       @(VTYPE main).
+
+dachte	     V * (^ PRED) = 'denken<(^ SUBJ)>' "need to add the reflexive part"
+	       	 @(TENSE past)
+		 (^ SUBJ PERS) = 3
+		 (^ SUBJ NUM) = sg.
+
+fehlte	     V * @(OPT-TRANS fehlen)
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+folgte       V * @(OPT-TRANS folgen)
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+folgten      V * @(OPT-TRANS folgen) "additional entry entry"
+	       	 @(TENSE past)
+		 (^ SUBJ PERS) = 3
+		 (^ SUBJ NUM) = pl.
+
+freuten	     V * (^ PRED) = 'freuen<(^ SUBJ)>' "need to add the reflexive part"
+	       	 @(TENSE past)
+		 (^ SUBJ PERS) = 3
+		 (^ SUBJ NUM) = pl.
+		 
+gehorchte    V * @(OPT-TRANS gehorchen)
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+gratulierte  V * @(OPT-TRANS gratulieren)
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+half	     V * @(OPT-TRANS helfen) "add. entry to replace inf verb"
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+helfen      V * @(OPT-TRANS helfen)
+	       	 @(VFORM inf)
+	       	 @(VTYPE main).
+
+war         V * (^ PRED) = 'war<(^ SUBJ)>'
+	    	@(PAST3SG)
+		@(VFORM base).
+
+waren	    V * (^ PRED) = 'war<(^ SUBJ)>'
+	    	@(TENSE past)
+		(^ PERS) = 3
+		(^ NUM) = pl
+		@(VFORM base).
+
+widersprach  V * @(OPT-TRANS widersprechen)
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+zuhören      V * @(OPT-TRANS zuhören)
+	       	 @(VFORM inf)
+	       	 @(VTYPE main).
+
+zuhörte      V * @(OPT-TRANS zuhören) "add. entry to replace inf verb"
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+zustimmte    V * @(OPT-TRANS zustimmen)
+	       	 @(PAST3SG)
+		 @(VFORM base)
+		 @(VTYPE main).
+
+sahen	     V * (^ PRED) = 'sehen<(^ SUBJ)(^ COMP)>'
+	       	 (^ TENSE) = past
+		 (^ SUBJ PERS) = 3
+		 (^ SUBJ NUM) = pl
+		 (^ COMP-FORM) = dass
+		 @(VFORM base)
+		 @(VTYPE main).
+
+"auxiliary verbs"
+
+musste	    AUX * (^ PRED) = 'müssen<(^ SUBJ)(^ XCOMP)>'
+	      	  @(PAST3SG)
+		  (^ XCOMP SUBJ) = (^ SUBJ)
+		  @(VFORM base)
+		  @(VTYPE modal).
+
+wird	    AUX * (^ PRED) = 'werden<(^ SUBJ)(^ XCOMP)>' "add. entry"
+	      	  (^ TENSE) = fut
+		  (^ XCOMP SUBJ) = (^ SUBJ)
+		  @(VFORM base)
+		  @(VTYPE modal).
+
+"adjectives"
+
+überrascht  A * (^ PRED) = 'überrascht'.
+
+gespannt    A * (^ PRED) = 'gespannt'.
+
+
+"adverbs"
+
+sehr	    ADV * (^ PRED) = 'sehr'.
+
+
+"determiners"
+
+das	D * @(DEF +)
+	    @(NUM sg)
+	    @(GEND neut)
+	    { @(CASE nom) | @(CASE acc) }.
+
+dem	D * @(DEF +)
+	    @(NUM sg)
+	    { @(GEND masc)
+	      | @(GEND neut) }
+	    @(CASE dat).
+
+den	D * @(DEF +)
+	    { @(NUM sg)
+	      @(GEND masc)
+	      @(CASE acc)
+	      | @(NUM pl)
+	      	@(CASE dat) }.
+
+der	D * @(DEF +)
+	    { @(NUM sg)
+	      { @(GEND masc)
+	      	@(CASE nom)
+	    	| @(GEND fem)
+	    	  { @(CASE gen) | @(CASE dat) } }
+	      | @(NUM pl)
+	      	@(CASE gen) }.
+
+Der	D * @(DEF +)
+	    { @(NUM sg)
+	      { @(GEND masc)
+	      	@(CASE nom)
+	    	| @(GEND fem)
+	    	  { @(CASE gen) | @(CASE dat) } }
+	      | @(NUM pl)
+	      	@(CASE gen) }.
+
+des	D * @(DEF +)
+	    @(NUM sg)
+	    { @(GEND masc) | @(GEND neut) }
+	    @(CASE gen).
+
+die	D * @(DEF +)
+	    { @(NUM sg)
+	      @(GEND fem)
+	      | @(NUM pl) }
+	    { @(CASE nom) | @(CASE acc) }.
+
+
+"complementizers"
+
+als	C * (^ COMP-FORM) = als.
+
+dass	C * (^ COMP-FORM) = dass.
+
+"punctuation"
+
+.	PERIOD * (^ STMT-TYPE) = declarative.
+,	COMMA * .
+
+----

@@ -1,0 +1,31 @@
+((1) (2 0.005 45) (8 words))
+((2) (2 0.005 45) (8 words))
+((3) (2 0.004 45) (8 words))
+((4) (2 0.003 45) (8 words))
+((5) (2 0.004 45) (8 words))
+((6) (2 0.003 45) (8 words))
+((7) (2 0.003 45) (8 words))
+((8) (2 0.003 45) (8 words))
+((9) (2 0.003 45) (8 words))
+
+XLE release of Sep 25, 2017 21:02.
+Grammar = /Users/romihill/Developer/git/KN_Uni/Hiwi/lfg_conference/data/grammar-ver1.lfg.
+Grammar last modified on Jul 12, 2021 12:17.
+Host machine is Romis-MacBook-Pro.local.
+9 sentences, 0 errors, 0 mismatches
+9 good sentences
+timeout = 100
+max_xle_scratch_storage = 100 MB
+prune_subtree_location = 1
+max_new_events_per_graph_when_skimming = 500
+maximum raw subtrees per sentence = 58 (#1)
+maximum event count per sentence = 3965
+average event count per graph = 66.383
+tokens = 10.3%, morph = 7.5%, multiword = 0.1%, lex = 13.2%, chart = 17.9%,
+unifier = 37.7%, completer = 3.2%, solver = 10.0%, output = 0.0%
+max_alloc_mem = 305.29 MB
+0.034 CPU secs total, 0.005 CPU secs max
+elapsed time = 0 seconds
+  range parsed failed  words   seconds  subtrees     optimal
+   1-10      9      0   8.00     0.004     45.00        2.00
+    all      9      0   8.00     0.004     45.00        2.00

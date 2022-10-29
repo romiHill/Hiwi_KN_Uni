@@ -1,0 +1,198 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.78439583333 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 2.7843958333333334 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "SIL" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 0.19105516311127746 
+            text = "OR" 
+        intervals [3]:
+            xmin = 0.19105516311127746 
+            xmax = 0.48585824652777765 
+            text = "ALLA_AH" 
+        intervals [4]:
+            xmin = 0.48585824652777765 
+            xmax = 0.7120738715277777 
+            text = "NA_Y" 
+        intervals [5]:
+            xmin = 0.7120738715277777 
+            xmax = 0.7867237723214284 
+            text = "PAU" 
+        intervals [6]:
+            xmin = 0.7867237723214284 
+            xmax = 0.960248454861111 
+            text = "UN" 
+        intervals [7]:
+            xmin = 0.960248454861111 
+            xmax = 1.1935436039126015 
+            text = "PAR" 
+        intervals [8]:
+            xmin = 1.1935436039126015 
+            xmax = 1.2271849826388888 
+            text = "PAU" 
+        intervals [9]:
+            xmin = 1.2271849826388888 
+            xmax = 1.4962849949299406 
+            text = "KO_O_I_I" 
+        intervals [10]:
+            xmin = 1.4962849949299406 
+            xmax = 1.8711310022865855 
+            text = "ZULM" 
+        intervals [11]:
+            xmin = 1.8711310022865855 
+            xmax = 2.0267947048611106 
+            text = "PAU" 
+        intervals [12]:
+            xmin = 2.0267947048611106 
+            xmax = 2.345326569413716 
+            text = "NAHI_I_N" 
+        intervals [13]:
+            xmin = 2.345326569413716 
+            xmax = 2.6843922862787357 
+            text = "KIA_A" 
+        intervals [14]:
+            xmin = 2.6843922862787357 
+            xmax = 2.7843958333333334 
+            text = "SIL" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 2.7843958333333334 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 0.19105516311127746 
+            text = "O R" 
+        intervals [3]:
+            xmin = 0.19105516311127746 
+            xmax = 0.3192261377397192 
+            text = "A L" 
+        intervals [4]:
+            xmin = 0.3192261377397192 
+            xmax = 0.48585824652777765 
+            text = "L A_A H" 
+        intervals [5]:
+            xmin = 0.48585824652777765 
+            xmax = 0.7120738715277777 
+            text = "N A_Y" 
+        intervals [6]:
+            xmin = 0.7120738715277777 
+            xmax = 0.7867237723214284 
+            text = "" 
+        intervals [7]:
+            xmin = 0.7867237723214284 
+            xmax = 0.960248454861111 
+            text = "U N" 
+        intervals [8]:
+            xmin = 0.960248454861111 
+            xmax = 1.1935436039126015 
+            text = "P A R" 
+        intervals [9]:
+            xmin = 1.1935436039126015 
+            xmax = 1.2271849826388888 
+            text = "" 
+        intervals [10]:
+            xmin = 1.2271849826388888 
+            xmax = 1.4962849949299406 
+            text = "K O_O_I_I" 
+        intervals [11]:
+            xmin = 1.4962849949299406 
+            xmax = 1.8711310022865855 
+            text = "Z U L M" 
+        intervals [12]:
+            xmin = 1.8711310022865855 
+            xmax = 2.0267947048611106 
+            text = "" 
+        intervals [13]:
+            xmin = 2.0267947048611106 
+            xmax = 2.1762161951013512 
+            text = "N A" 
+        intervals [14]:
+            xmin = 2.1762161951013512 
+            xmax = 2.345326569413716 
+            text = "H I_I_N" 
+        intervals [15]:
+            xmin = 2.345326569413716 
+            xmax = 2.5597185094391497 
+            text = "K I" 
+        intervals [16]:
+            xmin = 2.5597185094391497 
+            xmax = 2.6843922862787357 
+            text = "A_A" 
+        intervals [17]:
+            xmin = 2.6843922862787357 
+            xmax = 2.7843958333333334 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 2.78439583333 
+        points: size = 10 
+        points [1]:
+            number = 0.13316545418807402 
+            mark = "%L" 
+        points [2]:
+            number = 0.23847660862975864 
+            mark = "H*" 
+        points [3]:
+            number = 0.6183489871515495 
+            mark = "H-" 
+        points [4]:
+            number = 0.8679726055655527 
+            mark = "L*" 
+        points [5]:
+            number = 1.0884880694804988 
+            mark = "L-" 
+        points [6]:
+            number = 1.447674328379816 
+            mark = "H*" 
+        points [7]:
+            number = 1.7316383341065014 
+            mark = "La" 
+        points [8]:
+            number = 2.1096301562989765 
+            mark = "L*" 
+        points [9]:
+            number = 2.2600746626442403 
+            mark = "Ha" 
+        points [10]:
+            number = 2.615499808884926 
+            mark = "L%" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "utterance" 
+        xmin = 0 
+        xmax = 2.78439583333 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999998 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09999999999999998 
+            xmax = 2.6843922862787357 
+            text = "aur allah ne un par koi zulm nahi kia" 
+        intervals [3]:
+            xmin = 2.6843922862787357 
+            xmax = 2.78439583333 
+            text = "" 

@@ -1,0 +1,15 @@
+Sentence ID	Sentence
+ExpAmbi_Sp2_S1_Alt_F_U1.TextGrid	tum pani ya kofi pio gi
+ExpAmbi_Sp2_S1_Alt_F_U2.TextGrid	tum pani ya kofi pio gi
+ExpAmbi_Sp2_S2_Alt_F_U1.TextGrid	tum muli ya gobi khao gi
+ExpAmbi_Sp2_S2_Alt_F_U2.TextGrid	tum muli ya gobi khao gi
+ExpAmbi_Sp2_S3_Alt_F_U1.TextGrid	tum mari ya bali jao gi
+ExpAmbi_Sp2_S3_Alt_F_U2.TextGrid	tum mari ya bali jao gi
+ExpAmbi_Sp2_S4_Alt_F_U1.TextGrid	tum lari ya gari becho gi
+ExpAmbi_Sp2_S4_Alt_F_U2.TextGrid	tum lari ya gari becho gi
+ExpAmbi_Sp2_S5_Alt_F_U1.TextGrid	tum ghori ya khoti mango gi
+ExpAmbi_Sp2_S5_Alt_F_U2.TextGrid	tum ghori ya khoti mango gi
+ExpAmbi_Sp2_S6_Alt_F_U1.TextGrid	tum roti ya boti khao gi
+ExpAmbi_Sp2_S6_Alt_F_U2.TextGrid	tum roti ya boti khao gi
+ExpAmbi_Sp2_S7_Alt_F_U1.TextGrid	tum bali ya chori dekho gi
+ExpAmbi_Sp2_S7_Alt_F_U2.TextGrid	tum bali ya chori dekho gi
