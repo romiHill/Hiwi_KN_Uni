@@ -1,3 +1,3 @@
 INPUT_PATH = "input/"
 
-PHONE_TIER = "name = \"phones\""
+PHONE_TIER = "name = \"MAU\""
