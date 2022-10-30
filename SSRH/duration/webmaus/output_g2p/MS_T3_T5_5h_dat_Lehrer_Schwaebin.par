@@ -1,16 +1,20 @@
-KAN: 0 d i:
-KAN: 1 S v a b I n
-KAN: 2 f r a: k t @
-KAN: 3 d e: n
-KAN: 4 l e: r 6
-KAN: 5 n a: x
-KAN: 6 ? U 6 S v a b I S @ n
-KAN: 7 v O r t 6 n
-ORT: 0 Die
-ORT: 1 Schwäbin
-ORT: 2 fragte
-ORT: 3 den
-ORT: 4 Lehrer
-ORT: 5 nach
-ORT: 6 urschwäbischen
-ORT: 7 Wörtern
+KAN: 0 ? a l @
+KAN: 1 h O r t @ n
+KAN: 2 g @ S p a n t
+KAN: 3 ts u
+KAN: 4 ? a l s
+KAN: 5 d e: 6
+KAN: 6 l e: r 6
+KAN: 7 d e: 6
+KAN: 8 S v a b I n
+KAN: 9 ? a n t v O 6 t @ t @
+ORT: 0 Alle
+ORT: 1 hörten
+ORT: 2 gespannt
+ORT: 3 zu
+ORT: 4 als
+ORT: 5 der
+ORT: 6 Lehrer
+ORT: 7 der
+ORT: 8 Schwäbin
+ORT: 9 antwortete

@@ -1,46 +1,18 @@
-KAN: 0 d a
-KAN: 1 d e: 6
-KAN: 2 f a: r 6
-KAN: 3 d e: n
-KAN: 4 v e: k
-KAN: 5 ts U m
-KAN: 6 S l O s
-KAN: 7 n I C t
-KAN: 8 g @ n aU
-KAN: 9 k a n t @
-KAN: 10 m U s t @
-KAN: 11 ? E 6
-KAN: 12 z I C
-KAN: 13 d i:
-KAN: 14 n O t g @ n
-KAN: 15 ? I n f O 6 m a ts t o: n @ n
-KAN: 16 ? aU s
-KAN: 17 d e: 6
-KAN: 18 f 6 v I r E n d @ n
-KAN: 19 ? E 6 ts i: a l U N
-KAN: 20 d e: 6
-KAN: 21 d a: m @
-KAN: 22 h o: l @ n
-ORT: 0 Da
-ORT: 1 der
-ORT: 2 Fahrer
-ORT: 3 den
-ORT: 4 Weg
-ORT: 5 zum
-ORT: 6 Schloss
-ORT: 7 nicht
-ORT: 8 genau
-ORT: 9 kannte
-ORT: 10 musste
-ORT: 11 er
-ORT: 12 sich
-ORT: 13 die
-ORT: 14 nöTgen
-ORT: 15 InformaTonen
-ORT: 16 aus
-ORT: 17 der
-ORT: 18 verwirrenden
-ORT: 19 Erzählung
-ORT: 20 der
-ORT: 21 Dame
-ORT: 22 holen
+KAN: 0 ? U m
+KAN: 1 ? a l @ s
+KAN: 2 m I t t s u b @ k O m @ n
+KAN: 3 m U s t @
+KAN: 4 d e: 6
+KAN: 5 f a: r 6
+KAN: 6 d e: 6
+KAN: 7 d a: m @
+KAN: 8 ts u: h O r @ n
+ORT: 0 Um
+ORT: 1 alles
+ORT: 2 mitzubekommen
+ORT: 3 musste
+ORT: 4 der
+ORT: 5 Fahrer
+ORT: 6 der
+ORT: 7 Dame
+ORT: 8 zuhören
