@@ -47,7 +47,7 @@ item []:
         intervals [9]:
             xmin = 2.707120
             xmax = 3.157120
-            text = "fehlt"
+            text = "fehlte"
         intervals [10]:
             xmin = 3.157120
             xmax = 3.650431
@@ -93,7 +93,7 @@ item []:
         intervals [9]:
             xmin = 2.707120
             xmax = 3.157120
-            text = "f e: l t"
+            text = "f e: l t @"
         intervals [10]:
             xmin = 3.157120
             xmax = 3.650431
@@ -103,7 +103,7 @@ item []:
         name = "MAU"
         xmin = 0
         xmax = 3.650431
-        intervals: size = 39
+        intervals: size = 40
         intervals [1]:
             xmin = 0.000000
             xmax = 0.427120
@@ -254,9 +254,13 @@ item []:
             text = "l"
         intervals [38]:
             xmin = 2.987120
-            xmax = 3.157120
+            xmax = 3.057120
             text = "t"
         intervals [39]:
+            xmin = 3.057120
+            xmax = 3.157120
+            text = "@"
+        intervals [40]:
             xmin = 3.157120
             xmax = 3.650431
             text = "<p:>"

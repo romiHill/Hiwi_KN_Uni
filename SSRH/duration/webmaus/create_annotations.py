@@ -7,9 +7,12 @@ import os
 # ------------------------------------------------------------------------ #
 # ------------ CONSTANTS ------------ #
 # ------------------------------------------------------------------------ #
-MAPPING_DICTIONARY = {'Anwalt_Diva': 'Das Gericht war daher sehr überrascht, als der Anwalt der Diva widersprach', 'Fahrer_Dame': 'Um alles mitzubekommen, musste der Fahrer der Dame zuhören', 'Onkel_Nonne': 'Alle freuten sich, als der Onkel der Nonne gratulierte', 'Schwager_Tante': 'Um rechtzeitig fertig zu werden, musste der Schwager der Tante helfen', 'Gaertner_Oma': 'Die Enkel waren daher überrascht, als der Gärtner der Oma zustimmte', 'Partner_Freundin': 'Jeder bemerkte, dass der Partner der Freundin fehlt', 'Diener_Graefin': 'Keiner dachte sich etwas dabei, als der Diener der Gräfin folgte', 'Lehrer_Schwaebin': 'Alle hörten gespannt zu, als der Lehrer der Schwäbin antwortete', 'Rabe_Heldin': 'Die Anwesenden waren sehr überrascht, dass der Rabe der Heldin gehorchte'}
 
 INPUT_PATH = '/Users/romihill/Developer/git/Hiwi/SSRH/duration/webmaus/annotations_as_txt/'
+
+
+MAPPING_DICTIONARY = {'Anwalt_Diva': 'Das Gericht war daher sehr überrascht, als der Anwalt der Diva widersprach', 'Fahrer_Dame': 'Um alles mitzubekommen, musste der Fahrer der Dame zuhören', 'Onkel_Nonne': 'Alle freuten sich, als der Onkel der Nonne gratulierte', 'Schwager_Tante': 'Um rechtzeitig fertig zu werden, musste der Schwager der Tante helfen', 'Gaertner_Oma': 'Die Enkel waren daher überrascht, als der Gärtner der Oma zustimmte', 'Partner_Freundin': 'Jeder bemerkte, dass der Partner der Freundin fehlte', 'Diener_Graefin': 'Keiner dachte sich etwas dabei, als der Diener der Gräfin folgte', 'Lehrer_Schwaebin': 'Alle hörten gespannt zu, als der Lehrer der Schwäbin antwortete', 'Rabe_Heldin': 'Die Anwesenden waren sehr überrascht, dass der Rabe der Heldin gehorchte'}
+
 
 def fill_annotation_in_file(identifier, file_path):
     """

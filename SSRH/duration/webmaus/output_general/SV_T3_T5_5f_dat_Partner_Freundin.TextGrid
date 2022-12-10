@@ -46,10 +46,10 @@ item []:
             text = "Freundin"
         intervals [9]:
             xmin = 3.037120
-            xmax = 3.457120
-            text = "fehlt"
+            xmax = 3.487120
+            text = "fehlte"
         intervals [10]:
-            xmin = 3.457120
+            xmin = 3.487120
             xmax = 4.291406
             text = ""
     item [2]:
@@ -92,10 +92,10 @@ item []:
             text = "f r OY n d I n"
         intervals [9]:
             xmin = 3.037120
-            xmax = 3.457120
-            text = "f e: l t"
+            xmax = 3.487120
+            text = "f e: l t @"
         intervals [10]:
-            xmin = 3.457120
+            xmin = 3.487120
             xmax = 4.291406
             text = ""
     item [3]:
@@ -103,7 +103,7 @@ item []:
         name = "MAU"
         xmin = 0
         xmax = 4.291406
-        intervals: size = 39
+        intervals: size = 40
         intervals [1]:
             xmin = 0.000000
             xmax = 0.837120
@@ -254,9 +254,13 @@ item []:
             text = "l"
         intervals [38]:
             xmin = 3.287120
-            xmax = 3.457120
+            xmax = 3.407120
             text = "t"
         intervals [39]:
-            xmin = 3.457120
+            xmin = 3.407120
+            xmax = 3.487120
+            text = "@"
+        intervals [40]:
+            xmin = 3.487120
             xmax = 4.291406
             text = "<p:>"
