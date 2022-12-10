@@ -2,4 +2,5 @@
 **/.DS_Store
 .swp
 **/*.swp
-
+**/__pycache__
+**/files_for_meeting
