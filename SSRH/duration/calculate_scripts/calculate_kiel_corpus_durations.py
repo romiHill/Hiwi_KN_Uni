@@ -23,11 +23,11 @@ class Realization:
     """
     Class to store realization segment and their duration
     """
-    def __init__(self, element = '', duration = 0):
-        self.element = element
+    def __init__(self, segment = '', duration = 0):
+        self.segment = segment
         self.duration = duration
     def __str__(self):
-        return f"element: {self.element}\tduration: {self.duration}"
+        return f"segment: {self.segment}\tduration: {self.duration}"
 
 # ---------------------------------------------------------------------------- #
 
@@ -37,10 +37,9 @@ def extract_elements_from_line(master_list: list, line_list: list, line: str):
     Extract elements from line into the master list
     """
     for i in range(len(line_list)):
-        if "%" not in line_list[i] and "&" not in line_list[i]:
-            master_list.append(line_list[i])
+        # if "%" not in line_list[i] and "&" not in line_list[i]:
+        master_list.append(line_list[i])
     return master_list
-
 
 def read_input(in_folder_name = KIEL_CORPUS_PATH):
     """
@@ -60,7 +59,7 @@ def read_input(in_folder_name = KIEL_CORPUS_PATH):
             original_tier = []
             segment_tier = []
             realized_tier = []
-            duration_tier = {}
+            duration_tier = []
             
             word_durations = []
             
@@ -71,7 +70,6 @@ def read_input(in_folder_name = KIEL_CORPUS_PATH):
 
                     original_tier = extract_elements_from_line(original_tier, orig_tier_list, line)
 
-                        
                 elif line.startswith('oend'):
                     is_orig_tier = False
                     is_segment_tier = True
@@ -100,16 +98,27 @@ def read_input(in_folder_name = KIEL_CORPUS_PATH):
                 elif is_duration_tier:
                     line_list = line.split()
                     item = Realization()
-                    item = Realization(element, duration_tier[element])
+                    item = Realization(line_list[1], line_list[2])
                     duration_tier.append(item)
 
         new_realization_tier = []
         # to do: fill the realized tier with duration info extracted from duration_tier
-        for i, element in duration_tier:
-            print(realized_tier)
-            item = Realization(element, duration_tier[element])
+        j = 0
+        for item in realized_tier:
+            print(item)
 
-            new_realization_tier.append(item)
+        for element in realized_tier:
+            if ' ' in element:
+                inner_list = []
+                for item in element.split():
+                    inner_list.append(duration_tier[j])
+                    j += 1
+                new_realization_tier.append(inner_list)
+            else:
+                new_realization_tier.append(duration_tier[j])
+                j += 1
+
+
         for item in list(zip(original_tier, segment_tier, new_realization_tier)):
             current_durations = WordDurations(word = item[0], segment = item[1], realization = item[2])
             word_durations.append(current_durations)
