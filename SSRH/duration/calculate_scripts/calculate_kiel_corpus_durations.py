@@ -153,7 +153,6 @@ def read_input(in_folder_name = KIEL_CORPUS_PATH):
                 elif tier_type['orig_tier']:
                     orig_tier_list = line.strip('\n').rstrip(' ').split(' ')[8:]
                     original_tier = extract_elements_from_line(original_tier, orig_tier_list, line)
-                    print(line, orig_tier_list)
 
                 elif tier_type['segment_tier']:
                     segment_tier_list = line.strip('\n').split(' ' * 2)[1:]
@@ -177,6 +176,15 @@ def read_input(in_folder_name = KIEL_CORPUS_PATH):
     return word_durations
 
 # ---------------------------------------------------------------------------- #
+def calculate_averages(input_list):
+    """
+    Calculate averages of segments
+    Input: list of WordDuration objects
+    Output: Dataframe
+    """
+
+
+# ---------------------------------------------------------------------------- #
 
 # ---------------------------------------------------------------------------- #
 # ------ MAIN FUNCTION ------ #
@@ -189,6 +197,9 @@ def main():
         print(word)
         for realized_durations in word.realized_durations:
             print(realized_durations)
+    
+    calculate_averages(output)
+
 
 # ---------------------------------------------------------------------------- #
 
