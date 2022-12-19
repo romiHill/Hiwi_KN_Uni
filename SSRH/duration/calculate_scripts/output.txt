@@ -1,0 +1,438 @@
+Word: ach	segments: :k Q 'a x	realized_durations:
+
+			segment: ##:k	duration: 0.0
+
+			segment: $%Q	duration: 0.07718749999999996
+
+			segment: $'a	duration: 0.10481249999999998
+
+			segment: $x	duration: 0.043062500000000004
+
+Word: so:>	segments: :k z o:+	realized_durations:
+
+			segment: ##:k	duration: 0.0
+
+			segment: $z	duration: 0.18693749999999998
+
+			segment: $''	duration: 0.0
+
+			segment: $o:+	duration: 0.16100000000000003
+
+Word: ja	segments: j 'a:	realized_durations:
+
+			segment: ##j	duration: 0.10012500000000024
+
+			segment: $'a:	duration: 0.1195624999999998
+
+Word: bei	segments: b aI+	realized_durations:
+
+			segment: ##b	duration: 0.028125000000000178
+
+			segment: $aI+	duration: 0.08981249999999985
+
+Word: mir	segments: m i: 6+	realized_durations:
+
+			segment: ##m	duration: 0.07487499999999958
+
+			segment: $i:6+	duration: 0.08056250000000009
+
+Word: wird	segments: v I 6 t+	realized_durations:
+
+			segment: ##v	duration: 0.08281250000000018
+
+			segment: $I6	duration: 0.0729375000000001
+
+			segment: $t+	duration: 0.034187499999999815
+
+Word: 's	segments: Q E s+	realized_durations:
+
+			segment: ##Q-	duration: 0.0
+
+			segment: $E-	duration: 0.0
+
+			segment: $s+	duration: 0.10193750000000001
+
+Word: richtig	segments: r 'I C t I C	realized_durations:
+
+			segment: ##r	duration: 0.036062499999999886
+
+			segment: $'I	duration: 0.05093749999999986
+
+			segment: $C	duration: 0.024875000000000647
+
+			segment: $t	duration: 0.03412499999999952
+
+			segment: $-h	duration: 0.029187499999999922
+
+			segment: $I	duration: 0.04600000000000026
+
+			segment: $C	duration: 0.13093749999999993
+
+Word: <"ahm>	segments: v: Q E: m	realized_durations:
+
+			segment: ##v:	duration: 0.0
+
+			segment: $Q	duration: 0.03174999999999972
+
+			segment: $E:	duration: 0.09000000000000075
+
+			segment: $m	duration: 0.2368124999999992
+
+Word: +/aufge=/+	segments: Q 'aU f #g @ =/+	realized_durations:
+
+			segment: ##%Q	duration: 0.03306250000000066
+
+			segment: $'aU	duration: 0.10099999999999998
+
+			segment: $f	duration: 0.07968749999999947
+
+			segment: $#g	duration: 0.050437500000000135
+
+			segment: $-h	duration: 0.02662500000000012
+
+			segment: $@	duration: 0.14662500000000023
+
+			segment: $=/+	duration: 0.0
+
+Word: d=/+	segments: d =/+	realized_durations:
+
+			segment: ##%d	duration: 0.02993750000000084
+
+			segment: $-h	duration: 0.02624999999999922
+
+			segment: $=/+	duration: 0.0
+
+Word: also	segments: Q a l z o:+	realized_durations:
+
+			segment: ##Q	duration: 0.0808750000000007
+
+			segment: $a	duration: 0.04068749999999888
+
+			segment: $l-	duration: 0.0
+
+			segment: $z	duration: 0.07725000000000115
+
+			segment: $o:+	duration: 0.06400000000000006
+
+Word: gezeigt	segments: g @ t s 'aI k t	realized_durations:
+
+			segment: ##g	duration: 0.04324999999999868
+
+			segment: $-h	duration: 0.02418750000000003
+
+			segment: $@	duration: 0.033312500000000966
+
+			segment: $t	duration: 0.05131249999999987
+
+			segment: $s	duration: 0.08549999999999969
+
+			segment: $'aI	duration: 0.16737499999999983
+
+			segment: $k	duration: 0.06281249999999972
+
+			segment: $%t	duration: 0.06112500000000054
+
+			segment: $-h	duration: 0.021062499999999318
+
+Word: ja	segments: j 'a:	realized_durations:
+
+			segment: ##j	duration: 0.05500000000000149
+
+			segment: $'a:	duration: 0.15481249999999847
+
+Word: ja	segments: j 'a:	realized_durations:
+
+			segment: ##j	duration: 0.0884374999999995
+
+			segment: $'a:	duration: 0.10743749999999963
+
+Word: und	segments: Q U n t+	realized_durations:
+
+			segment: ##Q-	duration: 0.0
+
+			segment: $U	duration: 0.05587500000000034
+
+			segment: $n	duration: 0.042687499999999545
+
+			segment: $t-+	duration: 0.0
+
+Word: dann/-	segments: d a n+ /-	realized_durations:
+
+			segment: ##d	duration: 0.013500000000000512
+
+			segment: $-h	duration: 0.012500000000001066
+
+			segment: $''	duration: 0.0
+
+			segment: $a	duration: 0.11331249999999926
+
+			segment: $n+	duration: 0.18331249999999955
+
+			segment: $/-	duration: 0.0
+
+Word: ja	segments: j 'a:	realized_durations:
+
+			segment: ##j	duration: 0.056312500000000654
+
+			segment: $'a:	duration: 0.1557499999999994
+
+Word: wie	segments: v i:+	realized_durations:
+
+			segment: ##v	duration: 0.0598124999999996
+
+			segment: $i:+	duration: 0.06981250000000117
+
+Word: fing	segments: f 'I N	realized_durations:
+
+			segment: ##f	duration: 0.12337499999999935
+
+			segment: $'I	duration: 0.04768750000000033
+
+			segment: $N	duration: 0.0546875
+
+Word: 's	segments: Q E s+	realized_durations:
+
+			segment: ##Q-	duration: 0.0
+
+			segment: $E-	duration: 0.0
+
+			segment: $s+	duration: 0.08287499999999959
+
+Word: dann	segments: d a n+	realized_durations:
+
+			segment: ##d	duration: 0.011750000000001037
+
+			segment: $a	duration: 0.05299999999999905
+
+			segment: $n+	duration: 0.0365000000000002
+
+Word: an	segments: Q 'a n	realized_durations:
+
+			segment: ##Q-	duration: 0.0
+
+			segment: $'a	duration: 0.14406250000000043
+
+			segment: $n	duration: 0.04118749999999949
+
+Word: dann	segments: d a n+	realized_durations:
+
+			segment: ##%d-n	duration: 0.015124999999999389
+
+			segment: $a	duration: 0.06500000000000128
+
+			segment: $n+	duration: 0.03737499999999905
+
+Word: fing	segments: f 'I N	realized_durations:
+
+			segment: ##f	duration: 0.10281250000000064
+
+			segment: $'I	duration: 0.04906249999999979
+
+			segment: $N	duration: 0.06225000000000058
+
+Word: 's	segments: Q E s+	realized_durations:
+
+			segment: ##Q-	duration: 0.0
+
+			segment: $E-	duration: 0.0
+
+			segment: $s+	duration: 0.09562500000000007
+
+Word: an	segments: Q 'a n	realized_durations:
+
+			segment: ##Q	duration: 0.0650624999999998
+
+			segment: $'a	duration: 0.15537499999999937
+
+			segment: $n	duration: 0.07881249999999973
+
+Word: hier	segments: h 'i: 6	realized_durations:
+
+			segment: ##h	duration: 0.08512499999999967
+
+			segment: $'i:6	duration: 0.0833124999999999
+
+Word: mit	segments: m I t+	realized_durations:
+
+			segment: ##m	duration: 0.10100000000000087
+
+			segment: $I	duration: 0.0730625000000007
+
+			segment: $t	duration: 0.11068749999999916
+
+			segment: $-h+	duration: 0.1379374999999996
+
+Word: na	segments: n a+	realized_durations:
+
+			segment: #&PGn	duration: 0.0
+
+			segment: $a+	duration: 0.07649999999999935
+
+Word: wie	segments: v i:+	realized_durations:
+
+			segment: ##v	duration: 0.05081250000000104
+
+			segment: $i:+	duration: 0.04768750000000033
+
+Word: hei"st	segments: h 'aI s t	realized_durations:
+
+			segment: ##h	duration: 0.08737499999999798
+
+			segment: $'aI	duration: 0.09137500000000287
+
+			segment: $s	duration: 0.048749999999998295
+
+			segment: $t-	duration: 0.0
+
+Word: sie	segments: z i:+	realized_durations:
+
+			segment: ##z-s	duration: 0.057500000000000995
+
+			segment: $-MA	duration: 0.0
+
+			segment: $i:-+	duration: 0.0
+
+Word: noch	segments: n O x+	realized_durations:
+
+			segment: ##n	duration: 0.023125000000000284
+
+			segment: $O	duration: 0.03687499999999844
+
+			segment: $x-+	duration: 0.0
+
+Word: Walze	segments: v 'a l t s @	realized_durations:
+
+			segment: ##v	duration: 0.0835000000000008
+
+			segment: $'a	duration: 0.13331249999999883
+
+			segment: $%l	duration: 0.11418749999999989
+
+			segment: $t	duration: 0.013812500000000227
+
+			segment: $s	duration: 0.12481250000000088
+
+			segment: $@	duration: 0.07712500000000233
+
+Word: ne	segments: n @+	realized_durations:
+
+			segment: ##n	duration: 0.0778749999999988
+
+			segment: $''	duration: 0.0
+
+			segment: $@+	duration: 0.150624999999998
+
+Word: Walze	segments: v 'a l t s @	realized_durations:
+
+			segment: ##v	duration: 0.03887499999999733
+
+			segment: $'a	duration: 0.08631250000000179
+
+			segment: $%l	duration: 0.06350000000000122
+
+			segment: $t	duration: 0.036249999999999005
+
+			segment: $s	duration: 0.08774999999999977
+
+			segment: $@	duration: 0.0623749999999994
+
+Word: +/mit	segments: m I t+	realized_durations:
+
+			segment: ##m	duration: 0.07750000000000057
+
+			segment: $I	duration: 0.04706249999999912
+
+			segment: $t+	duration: 0.0347500000000025
+
+Word: dem/+	segments: d e: m+ /+	realized_durations:
+
+			segment: ##%d	duration: 0.036499999999996646
+
+			segment: $-h	duration: 0.03181250000000091
+
+			segment: $e:	duration: 0.07175000000000153
+
+			segment: $m+	duration: 0.15024999999999977
+
+			segment: $/+	duration: 0.0
+
+Word: mit	segments: m I t+	realized_durations:
+
+			segment: ##m	duration: 0.044812499999999034
+
+			segment: $I	duration: 0.039749999999997954
+
+			segment: $t+	duration: 0.024750000000000938
+
+Word: dem/+	segments: d e: m+ /+	realized_durations:
+
+			segment: ##%d	duration: 0.018312500000000398
+
+			segment: $-h	duration: 0.02949999999999875
+
+			segment: $e:	duration: 0.06606250000000102
+
+			segment: $m+	duration: 0.14862499999999912
+
+			segment: $/+	duration: 0.0
+
+Word: mit	segments: m I t+	realized_durations:
+
+			segment: ##m	duration: 0.0416249999999998
+
+			segment: $I	duration: 0.041875000000000995
+
+			segment: $t+	duration: 0.028874999999999318
+
+Word: dem	segments: d e: m+	realized_durations:
+
+			segment: ##%d	duration: 0.016687499999999744
+
+			segment: $-h	duration: 0.022375000000000256
+
+			segment: $e:	duration: 0.039374999999999716
+
+			segment: $m+	duration: 0.06418749999999918
+
+Word: anderen	segments: Q 'a n d 6 r @ n	realized_durations:
+
+			segment: ##Q-	duration: 0.0
+
+			segment: $'a	duration: 0.11725000000000207
+
+			segment: $n	duration: 0.05318749999999994
+
+			segment: $d-	duration: 0.0
+
+			segment: $6	duration: 0.08168749999999747
+
+			segment: $r-	duration: 0.0
+
+			segment: $@-	duration: 0.0
+
+			segment: $n	duration: 0.06993750000000176
+
+Word: da	segments: d a:+	realized_durations:
+
+			segment: ##%d-n	duration: 0.02693749999999895
+
+			segment: $a:+	duration: 0.07806250000000148
+
+Word: im	segments: Q I m+	realized_durations:
+
+			segment: ##Q-	duration: 0.0
+
+			segment: $-q	duration: 0.0
+
+			segment: $I	duration: 0.046875
+
+			segment: $m+	duration: 0.08381249999999696
+
+Word: Bett	segments: b 'E t	realized_durations:
+
+			segment: ##b	duration: 0.06268750000000267
+
+			segment: $'E	duration: 0.14687499999999787
+
+			segment: $t	duration: 0.02125000000000199
+
