@@ -3,5 +3,6 @@
 .swp
 **/*.swp
 **/__pycache__
+**/.ipynb_checkpoints
 **/files_for_meeting
 **/output
