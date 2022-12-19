@@ -2,9 +2,9 @@
 # ------ LIBRARIES ------ #
 # ---------------------------------------------------------------------------- #
 import re, os, sys
-# import pandas as pd
+import pandas as pd
 
-from config import KIEL_CORPUS_PATH
+from config import KIEL_CORPUS_PATH, OUTPUT_PATH
 from data_structures.Interval import Interval
 
 # ---------------------------------------------------------------------------- #
@@ -176,13 +176,65 @@ def read_input(in_folder_name = KIEL_CORPUS_PATH):
     return word_durations
 
 # ---------------------------------------------------------------------------- #
-def calculate_averages(input_list):
+def extract_list_into_data(row, data):
+    word = row.word
+    for realized_segment in row.realized_durations:
+        segment = realized_segment.segment
+        duration = realized_segment.duration
+        # --- start of word --- #
+        if segment.startswith("##"):
+            start_of_word = True
+        else:
+            start_of_word = False
+        # --------------------- # 
+        
+        # --- stress in word --- #
+        if "'" in segment:
+            stress = True
+        else:
+            stress = False
+        # --------------------- # 
+        # segment = 
+        data.append([word, segment, duration, stress, start_of_word])
+    return data
+
+# ---------------------------------------------------------------------------- #
+
+def all_durations_to_df(input_list):
     """
     Calculate averages of segments
     Input: list of WordDuration objects
     Output: Dataframe
     """
+    data = []
+    for i, row in enumerate(input_list):
+        data = extract_list_into_data(row, data)
+    
 
+    df = pd.DataFrame(data, columns = ['word', 'segment', 'duration', 'stress', 'start of word'])
+
+    save_output(OUTPUT_PATH, 'all_kiel_durations', df)
+
+    return df
+
+# ---------------------------------------------------------------------------- #
+
+def calculate_averages(df):
+    df_averages = df.groupby(['segment', 'stress', 'start of word'])['duration'].mean()
+    save_output(OUTPUT_PATH, 'kiel_average_durations', df_averages)
+    return df_averages
+
+# ---------------------------------------------------------------------------- #
+
+def save_output(output_dir, output_filename, df):
+    """
+    Save output
+    """
+    if not os.path.exists(output_dir):
+        print(output_dir)
+        os.makedirs(output_dir)
+    outputFilePath = f'{output_dir}/{output_filename}.csv'
+    df.to_csv(outputFilePath)
 
 # ---------------------------------------------------------------------------- #
 
@@ -191,14 +243,16 @@ def calculate_averages(input_list):
 # ---------------------------------------------------------------------------- #
 
 def main():
-    output = read_input()
+    df = read_input()
 
-    for word in output:
-        print(word)
-        for realized_durations in word.realized_durations:
-            print(realized_durations)
-    
-    calculate_averages(output)
+    # --- extract all durations
+    df = all_durations_to_df(df)
+
+    # --- calculate averages
+    df_averages = calculate_averages(df)
+
+    # print(df.loc[df['segment'] == '##v:'])
+    # print(df['segment'].unique())
 
 
 # ---------------------------------------------------------------------------- #
